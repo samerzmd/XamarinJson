@@ -1,0 +1,14 @@
+/Users/CubicArt/Desktop/CallRestService/CallRestService/obj/Debug/MonoAndroid,Version=v2.2.AssemblyAttribute.cs
+/Users/CubicArt/Desktop/CallRestService/CallRestService/bin/Debug/CallRestService.dll.mdb
+/Users/CubicArt/Desktop/CallRestService/CallRestService/bin/Debug/CallRestService.dll
+/Users/CubicArt/Desktop/CallRestService/CallRestService/bin/Debug/CallRestService.CallRestService.apk
+/Users/CubicArt/Desktop/CallRestService/CallRestService/obj/Debug/android/bin/CallRestService.CallRestService.apk
+/Users/CubicArt/Desktop/CallRestService/CallRestService/obj/Debug/res/values/strings.xml
+/Users/CubicArt/Desktop/CallRestService/CallRestService/obj/Debug/res/drawable/icon.png
+/Users/CubicArt/Desktop/CallRestService/CallRestService/obj/Debug/res/layout/tweetitemview.xml
+/Users/CubicArt/Desktop/CallRestService/CallRestService/obj/Debug/R.cs.flag
+/Users/CubicArt/Desktop/CallRestService/CallRestService/bin/Debug/CallRestService.CallRestService-Signed.apk
+/Users/CubicArt/Desktop/CallRestService/CallRestService/obj/Debug/uploadflags.txt
+/Users/CubicArt/Desktop/CallRestService/CallRestService/obj/Debug/CallRestService.dll
+/Users/CubicArt/Desktop/CallRestService/CallRestService/obj/Debug/CallRestService.dll.mdb
+/Users/CubicArt/Desktop/CallRestService/CallRestService/obj/Debug/res/layout/lay.xml

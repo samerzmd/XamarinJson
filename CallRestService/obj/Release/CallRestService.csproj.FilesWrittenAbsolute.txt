@@ -1,0 +1,10 @@
+/Users/mike_bluestein/Documents/M4AProjects/Xamarin/Recipes/CallRestService/CallRestService/bin/Release/CallRestService.dll
+/Users/mike_bluestein/Documents/M4AProjects/Xamarin/Recipes/CallRestService/CallRestService/bin/Release/CallRestService.CallRestService.apk
+/Users/mike_bluestein/Documents/M4AProjects/Xamarin/Recipes/CallRestService/CallRestService/obj/Release/android/bin/CallRestService.CallRestService.apk
+/Users/mike_bluestein/Documents/M4AProjects/Xamarin/Recipes/CallRestService/CallRestService/obj/Release/res/values/strings.xml
+/Users/mike_bluestein/Documents/M4AProjects/Xamarin/Recipes/CallRestService/CallRestService/obj/Release/res/drawable/icon.png
+/Users/mike_bluestein/Documents/M4AProjects/Xamarin/Recipes/CallRestService/CallRestService/obj/Release/res/layout/itemview.axml
+/Users/mike_bluestein/Documents/M4AProjects/Xamarin/Recipes/CallRestService/CallRestService/obj/Release/R.cs.flag
+/Users/mike_bluestein/Documents/M4AProjects/Xamarin/Recipes/CallRestService/CallRestService/bin/Release/CallRestService.CallRestService-Signed.apk
+/Users/mike_bluestein/Documents/M4AProjects/Xamarin/Recipes/CallRestService/CallRestService/obj/Release/uploadflags.txt
+/Users/mike_bluestein/Documents/M4AProjects/Xamarin/Recipes/CallRestService/CallRestService/obj/Release/CallRestService.dll
